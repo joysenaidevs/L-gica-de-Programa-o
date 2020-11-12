@@ -1,0 +1,13 @@
+C:\Users\nilma\Documents\Logica de progamação\bin\Debug\netcoreapp3.1\Logica de progamação.exe
+C:\Users\nilma\Documents\Logica de progamação\bin\Debug\netcoreapp3.1\Logica de progamação.deps.json
+C:\Users\nilma\Documents\Logica de progamação\bin\Debug\netcoreapp3.1\Logica de progamação.runtimeconfig.json
+C:\Users\nilma\Documents\Logica de progamação\bin\Debug\netcoreapp3.1\Logica de progamação.runtimeconfig.dev.json
+C:\Users\nilma\Documents\Logica de progamação\bin\Debug\netcoreapp3.1\Logica de progamação.dll
+C:\Users\nilma\Documents\Logica de progamação\bin\Debug\netcoreapp3.1\Logica de progamação.pdb
+C:\Users\nilma\Documents\Logica de progamação\obj\Debug\netcoreapp3.1\Logica de progamação.csprojAssemblyReference.cache
+C:\Users\nilma\Documents\Logica de progamação\obj\Debug\netcoreapp3.1\Logica de progamação.AssemblyInfoInputs.cache
+C:\Users\nilma\Documents\Logica de progamação\obj\Debug\netcoreapp3.1\Logica de progamação.AssemblyInfo.cs
+C:\Users\nilma\Documents\Logica de progamação\obj\Debug\netcoreapp3.1\Logica de progamação.csproj.CoreCompileInputs.cache
+C:\Users\nilma\Documents\Logica de progamação\obj\Debug\netcoreapp3.1\Logica de progamação.dll
+C:\Users\nilma\Documents\Logica de progamação\obj\Debug\netcoreapp3.1\Logica de progamação.pdb
+C:\Users\nilma\Documents\Logica de progamação\obj\Debug\netcoreapp3.1\Logica de progamação.genruntimeconfig.cache
